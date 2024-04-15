@@ -6,7 +6,7 @@ export default function AppHeader() {
 
     return (
         <header className={styles.header}>
-            <Image src={logo} alt="logo"/>
+            <Image className={styles.cwuLogo} src={logo} alt="logo"/>
         </header>
     )
 }

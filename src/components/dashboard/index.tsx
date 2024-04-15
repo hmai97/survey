@@ -4,11 +4,9 @@ import styles from "./style.module.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser, faQuestionCircle, faPowerOff, faCogs, faHandsHelping, faInfoCircle } from '@fortawesome/free-solid-svg-icons'
 
-
-
 export default function Dashboard() {
     // States to store the input field values
-    
+
 
     return (
         <>
